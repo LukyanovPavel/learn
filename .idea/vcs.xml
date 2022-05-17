@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/CodeWars" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/FreeCodeCamp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/Homeworks-by-Ignat/task_01/my-solution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/Homeworks-by-Ignat/task_01/simple-react-homeworks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/Homeworks/Native-js/Native-Dimych" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/Homeworks/Task-by-Ignat/hw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/Homeworks/micro-tasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/React-way-of-samurai/react-way-of-samurai-ts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/React-way-of-samurai/react-way-of-samurai-video" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/React_simple" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/exam-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/front" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/react-way-of-samurai-ts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/react-way-of-samurai-video" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/it-incubator/taraining_todolist/taraining" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/other_project/training_task" vcs="Git" />
+  </component>
+</project>

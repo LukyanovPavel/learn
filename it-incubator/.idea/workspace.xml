@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e6a8206-f0df-4298-8d2e-d230dc6e00ff" name="Default Changelist" comment="complete 01">
+      <change afterPath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/01/01.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/01/01.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/02/02-test.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/02/02.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/03/03.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/03/03.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p1-main/m1-ui/u1-app/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p1-main/m1-ui/u1-app/App.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p1-main/m1-ui/u1-app/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h1/AlternativeMessage.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h1/HW1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h1/Message.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h1/Message.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h1/tests/Message.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h10/HW10.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h10/bll/loadingReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h10/bll/store.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h11/HW11.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h11/common/c7-SuperRange/SuperRange.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h11/common/c8-SuperDoubleRange/SuperDoubleRange.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h12/HW12.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h12/HW12.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h12/bll/themeReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h2/Affair.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h2/Affairs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h2/Affairs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h2/AlternativeAffairs.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h2/HW2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h2/tests/deleteAffair.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h2/tests/filterAffairs.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h3/AlternativeGreeting.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h3/Greeting.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h3/Greeting.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h3/GreetingContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h3/HW3.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/HW4.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/HW4.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/common/c1-SuperInputText/AlternativeSuperInputText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/common/c1-SuperInputText/SuperInputText.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/common/c1-SuperInputText/SuperInputText.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/common/c2-SuperButton/AlternativeSuperButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/common/c2-SuperButton/SuperButton.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/common/c3-SuperCheckbox/AlternativeSuperCheckbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h4/common/c3-SuperCheckbox/SuperCheckbox.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h5/HW5.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h5/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h5/Routes.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h5/pages/Error404.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h5/pages/PreJunior.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h6/HW6.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h6/common/c4-SuperEditableSpan/AlternativeSuperEditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h6/common/c4-SuperEditableSpan/SuperEditableSpan.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h6/localStorage/localStorage.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h7/HW7.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h7/common/c5-SuperSelect/AlternativeSuperSelect.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h7/common/c5-SuperSelect/SuperSelect.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h7/common/c6-SuperRadio/AlternativeSuperRadio.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h7/common/c6-SuperRadio/SuperRadio.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h8/HW8.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h8/bll/homeWorkReducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h8/bll/tests/homeWorkReducer.test.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h9/AlternativeClock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h9/Clock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/p2-homeworks/h9/HW9.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/serviceWorker.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/micro-tasks/src/FullInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/micro-tasks/src/components/button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homeworks/micro-tasks/src/components/input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/components/Dialogs/DialogsItem/DialogsItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/components/Dialogs/MessageItem/MessageItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/redux/state.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam-1/src/App.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam-1/src/components/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam-1/src/components/Increment.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam-1/src/components/Reset.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam-1/src/components/Scoreboard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exam-1/src/components/components.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Native-js/02-object-testing/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/react-app-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/react-app-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/Task-by-Ignat/hw/src/setupTests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/micro-tasks/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/micro-tasks/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/App.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/reportWebVitals.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/setupTests.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Homeworks/other-tasks-lection/front/src/setupTests.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/components/Dialogs/Dialogs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/components/Dialogs/Dialogs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/components/Profile/MyPosts/MyPosts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/components/Profile/MyPosts/MyPosts.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/components/Profile/Profile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/components/Profile/Profile.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/React-way-of-samurai/react-way-of-samurai-ts/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/React_simple/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/React_simple/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam-1/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam-1/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/exam-1/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exam-1/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/exam-1/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/exam-1" />
+  </component>
+  <component name="ProjectId" id="23LEZixgNSSX5hguWdbLmEi2R9f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Todolist/it-incubator-todolist-ts" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="ts.external.directory.path" value="D:\Learning\it-incubator\Homeworks\other-tasks-lection\front\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learning\it-incubator\exam-1\src\components" />
+      <recent name="D:\Learning\it-incubator_sandbox\react-path-of-samurai-ts\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.fewfewfew.js">
+    <configuration name="ewfgewfg.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CodeWars/ewfgewfg.js" working-dir="$PROJECT_DIR$/CodeWars">
+      <method v="2" />
+    </configuration>
+    <configuration name="fewfewfew.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CodeWars/fewfewfew.js" working-dir="$PROJECT_DIR$/CodeWars">
+      <method v="2" />
+    </configuration>
+    <configuration name="fewfwe.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/CodeWars/fewfwe.js" working-dir="$PROJECT_DIR$/CodeWars">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.fewfewfew.js" />
+        <item itemvalue="Node.js.ewfgewfg.js" />
+        <item itemvalue="Node.js.fewfwe.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e6a8206-f0df-4298-8d2e-d230dc6e00ff" name="Default Changelist" comment="" />
+      <created>1641505023511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641505023511</updated>
+      <workItem from="1641505024581" duration="1607000" />
+      <workItem from="1641509455050" duration="752000" />
+      <workItem from="1641510222618" duration="1478000" />
+      <workItem from="1641511719951" duration="5688000" />
+      <workItem from="1641602649873" duration="15869000" />
+      <workItem from="1641637535486" duration="22333000" />
+      <workItem from="1641815991173" duration="1193000" />
+      <workItem from="1641906149083" duration="33000" />
+      <workItem from="1643656817937" duration="92000" />
+      <workItem from="1643656943929" duration="9000" />
+      <workItem from="1643695969741" duration="5476000" />
+      <workItem from="1643708213732" duration="37000" />
+      <workItem from="1643713948109" duration="23000" />
+      <workItem from="1645297296392" duration="202000" />
+      <workItem from="1645297510059" duration="695000" />
+      <workItem from="1645802237436" duration="12440000" />
+      <workItem from="1648480421054" duration="22000" />
+    </task>
+    <task id="LOCAL-00001" summary="complete 01">
+      <created>1641505887306</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641505887306</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="complete 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete 01" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1641639692304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1641639692304" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643697290632">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1643697290632" />
+    <state x="742" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1641509351947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="742" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1641509351947" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1648480440858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648480440858" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1641791465664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1641791465664" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1641791465664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1641791465664" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1641791465664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1641791465664" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1641791465664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1641791465664" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1641510209214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1641510209214" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1643697740658">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643697740658" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1641788576173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1641788576173" />
+  </component>
+</project>
